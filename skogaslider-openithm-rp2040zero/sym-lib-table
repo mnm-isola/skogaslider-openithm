@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "Legacy")(uri "${KIPRJMOD}/RP_Silicon_KiCad/MCU_RaspberryPi_and_Boards.lib")(options "")(descr ""))
+  (lib (name "Adafruit MPR121 Breakout-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Adafruit MPR121 Breakout-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "rp2040-zero")(type "KiCad")(uri "${KIPRJMOD}/rp2040-zero.kicad_sym")(options "")(descr ""))
+)
